@@ -1,8 +1,11 @@
-This repository contains all folders/files of my implementation of the popular casino game "Baccarat".
-In order to access the contents, download the zip file and open within the IDE of your choice.
-Alternatively, you can simply clone this repository. 
+INSTALLATION: 
 
-Once you have access to the project on your local machine, you will need to run the program to play the game.
-In order to do this, access the terminal and run the command "mvn clean compile exec:java"
+      - Make sure you have an enviornment on your local machine that is able to compile and run Java.
+      - Download the zip file and open them on said enviornment
+      - Alternatively, you can simply clone the content of this repository
 
-Happy playing!
+RUNNING:
+
+      - Once you have access to the project on your local machine, you will need to run the program to play the game.
+      - In order to do this, access the terminal and run the command "mvn clean compile exec:java"
+      
